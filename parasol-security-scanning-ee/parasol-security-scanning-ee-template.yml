@@ -2,8 +2,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: acme-security-scanning-ee
-  title: acme-security-scanning-ee
+  name: parasol-security-scanning-ee
+  title: parasol-security-scanning-ee
   description: "Security scanning and certificate management EE"
   annotations:
     ansible.io/saved-template: 'true'
